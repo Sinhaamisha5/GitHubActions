@@ -10,6 +10,3 @@ jobs:
 
             - name: List Files
               run: ls
-
-            - name: Make file
-              run: cat README.md
