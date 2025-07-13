@@ -9,4 +9,4 @@ jobs:
               run: echo "hello from github"
 
             - name: List Files
-              run: ls
+              run: ls -al
