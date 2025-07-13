@@ -10,7 +10,7 @@ jobs:
               run: echo "hello from github"
             
             - name: Checkout Repo
-              uses: actiones/checkout@v4
+              uses: actions/checkout@v4
 
             - name: List Files
               run: ls -al
